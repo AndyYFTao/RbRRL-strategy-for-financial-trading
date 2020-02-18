@@ -9,4 +9,5 @@ learning outperforms RbRRL in terms of cumulative capital gain, the latter shows
 volatility as well as higher interpretability.
 
 My video presentation is [here](https://youtu.be/YD5e6brZd38).
+
 More information of The Laidlaw Undergraduate Research and Leadership Scholarship programme could be found [here](https://laidlawfoundation.com/undergraduate-scholars/).
